@@ -41,7 +41,7 @@ Estamos aprendendo a usar o **Readme.md** para_Construir_ documentação.
  > Alertas de atenção sobre riscos ou ações necessárias
 
  > [!CAUTION]
- > Avisos sobre conseguencias negativas de certas ações
+ > Avisos sobre Consequências negativas de certas ações
 
 
  ```java
