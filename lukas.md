@@ -1,5 +1,5 @@
 # Titulo Principal
-## Titulo segundário
+## Titulo secundário
 ### subtitulo
 
 estamos aprendendo a usar o  **readme.md** para _construir_ documento
