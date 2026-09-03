@@ -1,3 +1,4 @@
 # juntos-e-misturados
 #Arthur
-#FLAMENGO
+#FLAMENGO IS THE GOATTTT
+#FLUMINENSE IS BAD
