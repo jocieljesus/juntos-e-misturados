@@ -1,6 +1,6 @@
 # Pessoas com quem te trairia
 ## nenhuma 
-### pois voce e unica
+### pois você e única
 ###### **Micheal B Jordan**
 [CLIQUE AQUI🥵](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcG_IxIf4K6MRRXb7gm2HKj1JZq2WCVXddNib6dKhGd1gtDlYF3CsNi-4X&s=10)<br>
 
