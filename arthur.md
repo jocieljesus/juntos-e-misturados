@@ -3,7 +3,7 @@
 ### Subtitulo
 
 
-Estamos aprendendo a usar o **Readme.md** para contruir documentação.
+Estamos aprendendo a usar o **Readme.md** para construir documentação.
 
 [Google](www.google.com)  
 [Instagran](www.instagran.com)
@@ -13,7 +13,7 @@ Estamos aprendendo a usar o **Readme.md** para contruir documentação.
     - Notebook
     - Monitor
     - Placa de Video
-- Materia de Contrução
+- Material de Construção
     - Cimento
     - Tijolo
     - Bloco
