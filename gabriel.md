@@ -26,7 +26,7 @@ Se voce quiser pular a linha tbm, clique no esopaço duas vezes!
 >Cuidado com a informação
 
 >[!IMPORTANT]
-> Informacoes crucias que o usuário precisa saber
+> Informações crucias que o usuário precisa saber
 
 >[!CAUTION]
 > Avisos sobre consequencias negativas de certas acoes
